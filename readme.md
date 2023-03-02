@@ -1,1 +1,1 @@
-From the things I've learned from Zomato will implement them for creating swiggy clone
+From the things I've learned from Zomato clone now I will implement them for creating swiggy clone
