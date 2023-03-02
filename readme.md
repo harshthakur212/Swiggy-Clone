@@ -1,0 +1,1 @@
+From the things I've learned from Zomato will implement them for creating swiggy clone
